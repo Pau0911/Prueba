@@ -1,0 +1,16 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILsso1q6G/FnD5eWU/prgLZXpSNTldlwu6PAVYyYLuG2 daniel@fedora",
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEOCsPqmQGkgiv43HvcsQCHT2fxTuXN/fcNPzYpqKa5J analisis2.data@udea.edu.co"
+        ]
+      }
+    ]
+  }
+}
